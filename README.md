@@ -13,7 +13,6 @@ flowchart TD
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
-```mermaid
+```
 
-Hi
-
+# This is a new heading
