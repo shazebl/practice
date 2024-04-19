@@ -45,12 +45,12 @@ print(a)
 
 ```python
 
-def loop(n):
-  for i in (n):
+def loop(my_list):
+  for i in (my_list):
     print(i)
 
-n = "Hello world"
-loop(n)
+my_list = "Hello world"
+loop(my_list)
 ```
 
 > Output image of the above code
