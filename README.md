@@ -18,7 +18,7 @@ Python is a high-level, interpreted *programming language* known for its simplic
 
   Python has a vibrant and active community of developers, educators, and enthusiasts. This community-driven nature has led to the creation of numerous libraries, frameworks, and tools that extend Python's capabilities and make it suitable for a wide range of applications.
 
-## **Getting Started with Python**
+>> ## **Getting Started with Python**
 
 ### **Installation**
 
