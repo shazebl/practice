@@ -4,8 +4,6 @@
 
 Python is a high-level, interpreted *programming language* known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python has gained immense *popularity* over the years, becoming one of the most widely used programming languages in various domains, from web development and data science to artificial intelligence and scientific computing.
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
-
 ## **Why Python?**
 
 - **Easy to Learn and Read**
@@ -24,7 +22,7 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
 ### **Installation**
 
-To start programming in Python, you need to install the Python interpreter on your computer. You can download the latest version of Python from the official website [Python.org] (https://www.python.org/).
+To start programming in Python, you need to install the Python interpreter on your computer. You can download the latest version of Python from the official website [Python.org](https://ww.python.org/)
 
 ### **Writing Your First Python Program**
 
