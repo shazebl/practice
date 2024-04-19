@@ -55,4 +55,4 @@ loop(n)
 
 > Output image of the above code
 
-![Output]<https://data36.com/wp-content/uploads/2018/01/Python-For-Loops-String-1024x485.png>
+![Output](https://data36.com/wp-content/uploads/2018/01/Python-For-Loops-String-1024x485.png)
