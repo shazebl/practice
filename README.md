@@ -8,21 +8,21 @@ Python is a high-level, interpreted *programming language* known for its simplic
 
 - **Easy to Learn and Read**
 
-One of Python's primary strengths is its **readability**. Python's syntax is clear, intuitive, and expressive, making it easier for beginners to grasp programming concepts and write clean, maintainable code.
+  One of Python's primary strengths is its **readability**. Python's syntax is clear, intuitive, and expressive, making it easier for beginners to grasp programming concepts and write clean, maintainable code.
 
 - **Versatility**
 
-Python is a **versatile** language that supports multiple programming paradigms, including *procedural*, **object-oriented**, and _functional programming_. Its extensive standard library provides a rich set of modules and functions that facilitate various tasks, from file I/O and networking to data manipulation and web scraping.
+  Python is a **versatile** language that supports multiple programming paradigms, including *procedural*, **object-oriented**, and _functional programming_. Its extensive standard library provides a rich set of modules and functions that facilitate various tasks, from file I/O and networking to data manipulation and web scraping.
 
 - **Community and Ecosystem**
 
-Python has a vibrant and active community of developers, educators, and enthusiasts. This community-driven nature has led to the creation of numerous libraries, frameworks, and tools that extend Python's capabilities and make it suitable for a wide range of applications.
+  Python has a vibrant and active community of developers, educators, and enthusiasts. This community-driven nature has led to the creation of numerous libraries, frameworks, and tools that extend Python's capabilities and make it suitable for a wide range of applications.
 
 ## **Getting Started with Python**
 
 ### **Installation**
 
-To start programming in Python, you need to install the Python interpreter on your computer. You can download the latest version of Python from the official website [python.org](https://www.python.org/).
+To start programming in Python, you need to install the Python interpreter on your computer. You can download the latest version of Python from the official website [Python.org] (https://www.python.org/).
 
 ### **Writing Your First Python Program**
 
