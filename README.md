@@ -26,7 +26,7 @@ To start programming in Python, you need to install the Python interpreter on yo
 
 ### **Writing Your First Python Program**
 
-Once Python is installed, you can write your first Python program, traditionally a "Hello, World!" example, to get started:
+Once Python is installed, you can write your first Python program, traditionally a  `Hello, World!` example, to get started:
 
 ```python
 
