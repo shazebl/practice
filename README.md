@@ -22,7 +22,8 @@ Python is a high-level, interpreted *programming language* known for its simplic
 
 ### **Installation**
 
-To start programming in Python, you need to install the Python interpreter on your computer. You can download the latest version of Python from the official website [Python.org](https://ww.python.org/)
+To start programming in Python, you need to install the Python interpreter on your computer. You can download the latest version of Python from the official website [Python.org][1]
+[1]: <https://www.python.org>
 
 ### **Writing Your First Python Program**
 
@@ -38,3 +39,5 @@ def print(a):
 
 a = None
 print(a)
+
+[1] 
