@@ -30,12 +30,6 @@ To start programming in Python, you need to install the Python interpreter on yo
 
 Once Python is installed, you can write your first Python program, traditionally a  `Hello, World!` example, to get started:
 
-In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends
-of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to
-eat: it was a [hobbit-hole][1], and that means comfort.
-
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
-
 ```python
 
 def print(a):
@@ -46,5 +40,18 @@ def print(a):
 
 a = None
 print(a)
+```
+> *Let's write a function using for loop*
 
-[1] 
+```python
+
+def loop(n):
+  for i in range(n):
+  print(i)
+
+n = 10
+loop(10)
+```
+
+> Output image of the above code
+
