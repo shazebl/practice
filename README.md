@@ -46,12 +46,12 @@ print(a)
 ```python
 
 def loop(n):
-  for i in range(n):
-  print(i)
+  for i in (n):
+    print(i)
 
-n = 10
-loop(10)
+n = "Hello world"
+loop(n)
 ```
 
 > Output image of the above code
-
+![Output]<https://data36.com/wp-content/uploads/2018/01/Python-For-Loops-String-1024x485.png>
