@@ -29,4 +29,11 @@ To start programming in Python, you need to install the Python interpreter on yo
 Once Python is installed, you can write your first Python program, traditionally a "Hello, World!" example, to get started:
 
 ```python
-print("Hello, World!")
+def print(a):
+  if a is None:
+  return -1
+  else:
+  print("hi")
+
+  a = None
+  print(a)
